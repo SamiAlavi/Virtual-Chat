@@ -1,13 +1,13 @@
 ====================================================
 			Windows / Ubuntu
 
-python3 client.py -n Sami -p 12002 -s 127.0.1.1
+python3 client.py -n user1 -p 12002 -s 127.0.1.1
 
 python3 server.py
 
 
 			OR
-python client.py -n Sami -p 12002 -s 192.168.56.1
+python client.py -n user1 -p 12002 -s 197.200.228.1
 
 
 python server.py
